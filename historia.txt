@@ -4,4 +4,6 @@ carlos mina tiene 29 años y nacio en colombia
 
 main 1
 
+main 2
+
 hoy hablaremos de su vida
